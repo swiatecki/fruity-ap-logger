@@ -1678,4 +1678,44 @@ Username: [*01/01/1970 00:00:31.7899] ess-switch DT exist!
 [12/05/2018 00:04:19.9799] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
 [*12/05/2018 00:04:20.0699] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
 [*12/05/2018 00:04:21.2599] Waiting for uplink IPv4 configuration
-
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:11 ]===
+[*12/05/2018 00:04:26.2699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:16 ]===
+[*12/05/2018 00:04:31.2699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:21 ]===
+[*12/05/2018 00:04:36.2699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:26 ]===
+[*12/05/2018 00:04:41.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:31 ]===
+[*12/05/2018 00:04:46.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:36 ]===
+[*12/05/2018 00:04:51.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:41 ]===
+[*12/05/2018 00:04:56.2899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:46 ]===
+[*12/05/2018 00:05:01.2899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:14:51 ]===
+[*12/05/2018 00:05:06.2899] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:05:07.2899] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:05:09.3199] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:05:13.0599] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:05:13.1399] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:05:13.4299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:03 ]===
+[*12/05/2018 00:05:18.4399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:08 ]===
+[*12/05/2018 00:05:23.4399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:13 ]===
+[*12/05/2018 00:05:28.4399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:18 ]===
+[*12/05/2018 00:05:33.4499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:23 ]===
+[*12/05/2018 00:05:38.4499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:28 ]===
+[*12/05/2018 00:05:43.4499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:33 ]===
+[*12/05/2018 00:05:48.4599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:38 ]===
+[*12/05/2018 00:05:53.4599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:15:52 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:27:05 ]===
