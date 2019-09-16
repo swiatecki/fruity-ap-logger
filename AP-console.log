@@ -1,0 +1,510 @@
+[*12/05/2018 00:07:15.3899] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:49:10 ]===
+===[ ttyUSB0: 2019-09-16 13:49:14 ]===
+[*12/05/2018 00:07:20.3899] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:49:15 ]===
+===[ ttyUSB0: 2019-09-16 13:49:26 ]===
+
+Board type: AP1815M
+smem ram ptable found: ver: 1 len: 3
+
+
+U-Boot 2012.07 (btldr release 36) (Oct 13 2017 - 10:35:07)
+
+This product contains some software licensed under the
+"GNU General Public License, version 2" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+DRAM:  1022 MiB
+Nand: Detected ONFI Winbond NAND 256MiB 3,3V 8-bit
+NAND ECC=1 ECC_THRESHOLD(NAND ECC-1)=0
+SF: Detected W25Q32 with page size 4 KiB, total 4 MiB
+MFG data loaded
+Scanning shenv data blocks
+Total valid parts=4
+Active shenv part[1:0], write_count===[ ttyUSB0: 2019-09-16 13:49:27 ]===
+er=7
+machid: 8010001
+Net:   MAC0 addr:a8:b4:56:f3:6e:90
+AR8033 PHY 0
+PHY ID1: 0x4d
+PHY ID2: 0xd072
+ipq40xx_ess_sw_init done
+Auto boot mode, use bootipq directly
+Hit ESC key to stop autoboot:  2 ===[ ttyUSB0: 2019-09-16 13:49:28 ]===
+ 1 ===[ ttyUSB0: 2019-09-16 13:49:29 ]===
+ 0 
+Specified BOOT: part2 
+===[ ttyUSB0: 2019-09-16 13:49:30 ]===
+===[ ttyUSB0: 2019-09-16 13:49:32 ]===
+
+Booting from part2
+
+Read 1024 bytes from volume part2 to 88000000
+Read 22732367 bytes from volume part2 to 88000000
+===[ ttyUSB0: 2019-09-16 13:49:33 ]===
+===[ ttyUSB0: 2019-09-16 13:49:43 ]===
+Signature returns 0
+Image signing verification success, continue to run... 
+bootm 0x88000400 
+## Booting kernel from Legacy Image at 88000400 ...
+## Loading init Ramdisk from multi component Legacy Image at 88000400 ...
+## Flattened Device Tree from multi component Image at 88000400
+   Booting using the fdt at 0x895a4a08
+   Loading Ramdisk to 9ec25000, end 9fffffcd ... ===[ ttyUSB0: 2019-09-16 13:49:44 ]===
+===[ ttyUSB0: 2019-09-16 13:49:47 ]===
+OK
+   Loading Device Tree to 9ec19000, end 9ec24c46 ... OK
+no such device nand0
+Using machid 0x8010001 from environment
+
+Starting im===[ ttyUSB0: 2019-09-16 13:49:48 ]===
+age ...
+
+===[ ttyUSB0: 2019-09-16 13:49:49 ]===
+===[ ttyUSB0: 2019-09-16 13:50:12 ]===
+[01/01/1970 00:00:22.8199] Linux version 3.14.43 (vipendya@wireless-lnx2) (gcc version 4.7.1 (OpenWrt GCC 4.7.1 r48430) ) #1 SMP PREEMPT Tue Jun 5 00:45:36 PDT 2018
+[01/01/1970 00:00:22.9799] CPU: ARMv7 Processor [410fc075] revision 5 (ARMv7), cr=10c5387d
+[01/01/1970 00:00:23.0699] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+[01/01/1970 00:00:23.1799] Machine model: Cisco 11ac Wave2 Wifi Access Point
+[01/01/1970 00:00:23.2599] Memory policy: Data cache writealloc
+[01/01/1970 00:00:23.3299] Kernel command line: console=ttyMSM0,9600n8 ubi.mtd=0 root=/dev/ram activepart=part2 activeboot=0 wdgtriggered=0 board_sku=4 clk_ignore_unused
+[01/01/1970 00:00:23.4999] CPU1: Booted secondary processor
+[01/01/1970 00:00:23.5699] CPU2: Booted secondary processor
+[01/01/1970 00:00:23.6299] CPU3: Booted secondary processor
+[01/01/1970 00:00===[ ttyUSB0: 2019-09-16 13:50:13 ]===
+:23.6999] buginf tty flushing thread started, ttyport=bf1e7400
+===[ ttyUSB0: 2019-09-16 13:50:14 ]===
+===[ ttyUSB0: 2019-09-16 13:50:16 ]===
+[*01/01/1970 00:00:27.0099] buginf() enabled.
+[*01/01/1970 00:00:27.0499] Made it into bootsh: Jun  5 2018 00:50:45
+[*01/01/1970 00:00:27.0499] bootsh build T-eb8875394ad25c6d61b54b35d0937f2f9ded3dd6-geb887539-vipendya
+
+Welcome to Cisco.
+
+Usage of this device is governed by Cisco's End User License Agreement,
+available at:
+http://www.cisco.com/c/en/us/td/docs/general/warranty/English/EU1KEN_.html.
+
+
+             Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is subject to
+restrictions as set forth in subparagraph (c) of the Commercial
+Computer Software - Restricted Rights clause at FAR sec. 52.227-19 and
+subparagraph (c) (1) (ii) of===[ ttyUSB0: 2019-09-16 13:50:17 ]===
+ the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+            Cisco Systems, Inc.
+            170 West Tasman Drive
+            San Jose, California 95134-1706
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool===[ ttyUSB0: 2019-09-16 13:50:18 ]===
+/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+
+This product contains some software licensed under the
+"GNU General Public License, version 2" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+
+This product contains some software licensed under the
+"GNU Library General Public License, version 2" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Library
+General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+
+
+This product contains some software licensed under the
+"GNU Lesser General Public License, version 2.1" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Lesser
+General Public License, version 2.1", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+
+This product contains som===[ ttyUSB0: 2019-09-16 13:50:19 ]===
+e software licensed under the 
+"GNU General Public License, version 3" provided with 
+ABSOLUTELY NO WARRANTY under the terms of  
+"GNU General Public License, Version 3", available here: 
+http://www.gnu.org/licenses/gpl.html.
+
+
+This product contains some software licensed under the
+"GNU Affero General Public License, version 3" provided
+with ABSOLUTELY NO WARRANTY under the terms of
+"GNU Affero General Public License, version 3", available here:
+http://www.gnu.org/licenses/agpl-3.0.html.
+
+error: open /dev/board-config
+error: open /dev/board-config
+error: open /dev/board-config
+error: open /dev/board-config
+[*01/01/1970 00:00:28.6799] init started: BusyBox v1.23.2 (2018-06-05 00:35:33 PDT)
+[*01/01/1970 00:00:30.5999] GCM-128 POST passed
+[*01/01/1970 00:00:30.5999] GCM-256 POST passed
+===[ ttyUSB0: 2019-09-16 13:50:20 ]===
+[*01/01/1970 00:00:30.7399] ===   5G radio domain is 12, COPY 5G BDF files from ETSI_BDF folder   ===
+[*01/01/1970 00:00:30.9499] Active version: 8.5.131.0
+[*01/01/1970 00:00:30.9499] Backup version: 0.0.0.0
+[*01/01/1970 00:00:31.3599] 
+[*01/01/1970 00:00:31.3599]  led pattern module start 
+[*01/01/1970 00:00:31.3999] Loading caldata from mtd2
+Jan  1 00:00:31 FIPS[2899]: *** shell: FIPS Mode = disabled ***
+===[ ttyUSB0: 2019-09-16 13:50:21 ]===
+
+
+
+User Access Verification
+Username: [*01/01/1970 00:00:31.7799] ess-switch DT exist!
+[*01/01/1970 00:00:31.7799] switchreg_base_addr: 0xc000000
+[*01/01/1970 00:00:31.7799] switchreg_size: 0x80000
+[*01/01/1970 00:00:31.7799] switch_access_mode: local bus
+[*01/01/1970 00:00:31.7799] wan bmp:0x20
+[*01/01/1970 00:00:31.7799] ess-psgmii DT exist!
+[*01/01/1970 00:00:31.7799] mac mode=3
+[*01/01/1970 00:00:31.7799] current mac mode = 3
+[*01/01/1970 00:00:31.7799] current dts led_source_num is 5
+[*01/01/1970 00:00:31.7799] mdio DT exist!
+[*01/01/1970 00:00:31.7799] ssdk_plat_init start
+[*01/01/1970 00:00:31.7799] enable ess clk
+[*01/01/1970 00:00:31.8899] reset ok in probe!
+[*01/01/1970 00:00:31.8899] PHY ID is 0x4dd072
+[*01/01/1970 00:00:31.9499] Dakota Chip version 0x1401
+[*01/01/1970 00:00:31.9499] 
+[*01/01/1970 00:00:31.9499] QCA Switch config done.
+[*01/01/1970 00:00:31.9599] gcc ma===[ ttyUSB0: 2019-09-16 13:50:22 ]===
+p success!
+[*01/01/1970 00:00:32.0099] qca-ssdk module init succeeded!
+[*01/01/1970 00:00:32.0099] 
+[*01/01/1970 00:00:32.0099] QCA Switch config done.
+[*01/01/1970 00:00:32.2199] crypto worker thread started
+[*01/01/1970 00:00:32.2199] crypto worker thread started
+[*01/01/1970 00:00:32.2699] pid 3164's current affinity mask: f
+[*01/01/1970 00:00:32.2699] pid 3164's new affinity mask: e
+[*01/01/1970 00:00:32.2699] pid 3162's current affinity mask: f
+[*01/01/1970 00:00:32.2699] pid 3162's new affinity mask: e
+[*01/01/1970 00:00:32.5099] Current value of FACTORY_RESET=0
+[*12/04/2018 23:59:59.0099] Last reload time: Dec 4 23:59:59 2018
+[*12/04/2018 23:59:59.0000] Setting system time Tue Dec  4 23:59:59 UTC 2018
+[*12/04/2018 23:59:59.0799] device wired0 entered promiscuous mode
+===[ ttyUSB0: 2019-09-16 13:50:23 ]===
+===[ ttyUSB0: 2019-09-16 13:50:25 ]===
+[*12/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.0999] 
+[*1===[ ttyUSB0: 2019-09-16 13:50:25 ]===
+2/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.0999] Authenticating ACT2 ID:AP1815              
+[*12/05/2018 00:00:02.0999] Authenticating SN:FOC22467XDE
+[*12/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.0999] (ACT2Boot) Hardware is Cisco (c) authentic :-)
+[*12/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.1199] Seeding /dev/urandom from ACT2
+[*12/05/2018 00:00:02.7499] Reading ACT2 SUDI certificates
+===[ ttyUSB0: 2019-09-16 13:50:26 ]===
+===[ ttyUSB0: 2019-09-16 13:50:27 ]===
+[*12/05/2018 00:00:04.3999] stile module dp init successfully
+[*12/05/2018 00:00:04.3999] NBAR Label:BLD_MCP_DEV_LATEST_20150424_123021 NBAR VERSION:module build date: Jun  5 2018 at 00:48:48
+[*12/05/2018 00:00:04.7399] pid 3321's current affinity mask: f
+[*12/05/2018 00:00:04.7399] pid 3321's new affinity mask: e
+[*12/05/2018 00:00:04.7499] pid 3320's current affinity mask: f
+[*12/05/2018 00:00:04.7499] pid 3320's new affinity mask: e
+[*12/05/2018 00:00:04.7499] pid 3319's current affinity mask: f
+[*12/05/2018 00:00:04.749===[ ttyUSB0: 2019-09-16 13:50:28 ]===
+9] pid 3319's new affinity mask: e
+[*12/05/2018 00:00:05.3899] 
+[*12/05/2018 00:00:05.3999] boot 3 build T-eb8875394ad25c6d61b54b35d0937f2f9ded3dd6-geb887539-vipendya board mallorca mac A8:B4:56:F3:6E:90
+[*12/05/2018 00:00:05.4099] Module: mbedtls  .text=0x7f000000        data=0x7f0075e0        bss=0x7f007840
+[*12/05/2018 00:00:05.4099] Module: aptrace  .text=0x7f00c000        data=0x7f017fb0        bss=0x7f018498
+[*12/05/2018 00:00:05.4099] Module: led_module  .text=0x7f020000        data=0x7f020594        bss=0x7f020c04
+[*12/05/2018 00:00:05.4099] Module: qca_ssdk  .text=0x7f024000        data=0x7f0ba100        bss=0x7f0bfba4
+[*12/05/2018 00:00:05.4099] Module: essedma  .text=0x7f111000        data=0x7f117980        bss=0x7f117e14
+[*12/05/2018 00:00:05.4099] Modul===[ ttyUSB0: 2019-09-16 13:50:29 ]===
+e: crypto_netdev  .text=0x7f11f000        data=0x7f121ec0        bss=0x7f122120
+[*12/05/2018 00:00:05.4099] Module: act2_driver  .text=0x7f12b000        data=0x7f12b76c        bss=0x7f12b9f0
+[*12/05/2018 00:00:05.4099] Module: proclikefs  .text=0x7f12f000        data=        bss=0x7f12fb80
+[*12/05/2018 00:00:05.4099] Module: stile_lm_ft  .text=        data=        bss=
+[*12/05/2018 00:00:05.4099] Module: stile_lm_dp  .text=        data=        bss=
+[*12/05/2018 00:00:05.4099] Module: ipv6  .text=0x7fc64000        data=0x7fc9d1c0        bss=0x7fc9e7c0
+[*12/05/2018 00:00:05.4099] Module: llc  .text=0x7fcc5000        data=0x7fcc5850        bss=0x7fcc59dc
+[*12/05/2018 00:00:05.4099] Module: stp  .text=0x7fcca000        data=0x7fcca280        bss=0x7fcca42c
+[*12/05/2018 00:00:05.4099] Module: bridge  .text=0x7fcce000        data=0x7fcd6ad4        bss=0x7fcd6f14
+[*12/05/2018 00:00:05.4099] Module: p8022  .text=0x7fce4000        data=  ===[ ttyUSB0: 2019-09-16 13:50:30 ]===
+      bss=
+[*12/05/2018 00:00:05.4099] Module: psnap  .text=0x7fce8000        data=0x7fce8348        bss=0x7fce84b8
+[*12/05/2018 00:00:05.4099] Module: reed_solomon  .text=0x7fcec000        data=0x7fced404        bss=
+[*12/05/2018 00:00:06.0599] Last reload reason : 0: unknown
+===[ ttyUSB0: 2019-09-16 13:50:31 ]===
+[*12/05/2018 00:00:08.3599] __mm_init_module 
+[*12/05/2018 00:00:08.4299] ol_ath_ahb_probe
+[*12/05/2018 00:00:08.4299] ol_ath_ahb_probe: io resource start: 0xa000000, mem=0xc2800000
+[*12/05/2018 00:00:08.4299] 
+[*12/05/2018 00:00:08.4299] __ol_ath_attach() Allocated scn 9f6404c0
+[*12/05/2018 00:00:08.4299] ol_ath_ahb_configure: MSI addr: 0b006040, MSI base: 00000040
+[*12/05/2018 00:00:08.4399] 
+[*12/05/2018 00:00:08.4399]  ol_ath_ahb_configure : num_desired MSI set to 0
+[*12/05/2018 00:00:08.4399] 
+[*12/05/2018 00:00:08.4399]  Using Legacy Interrupt
+[*12/05/2018 00:00:08.4399] 
+[*12/05/2018 00:00:08.4399]  Waiting for target init
+[*12/05/2018 00:00:08.4399] 
+[*12/05/2018 00:00:08.4399]  Done waiting
+[*12/05/2018 00:00:08.4499===[ ttyUSB0: 2019-09-16 13:50:32 ]===
+] ol_ath_attach interface_id 0
+[*12/05/2018 00:00:08.4499] Chip id: 0xb, chip version: 0x1000000
+[*12/05/2018 00:00:08.4499] 
+[*12/05/2018 00:00:08.4499]  Target Version is 1000000
+[*12/05/2018 00:00:08.4499] 
+[*12/05/2018 00:00:08.4499]  Flash Download Address  c0000 
+[*12/05/2018 00:00:08.4499] ol_transfer_bin_file: flash data file defined
+[*12/05/2018 00:00:08.4499] ol_transfer_bin_file[3918] Get Caldata for wifi0.
+[*12/05/2018 00:00:08.4499] __adf_os_fs_read[42], Open File /tmp/wifi0.caldata SUCCESS!!
+[*12/05/2018 00:00:08.4499] file system magic:16914836 
+[*12/05/2018 00:00:08.4499] super blocksize:4096 
+[*12/05/2018 00:00:08.4499] inode 3600 
+[*12/05/2018 00:00:08.4499] file size:12064 
+[*12/05/2018 00:00:08.4499] qc98xx_verify_checksum: flash checksum passed: 0xa9ab
+[*12/05/2018 00:00:08.4499] ol_transfer_bin_file 3979: Download Flash data len 12064
+[*12/05/2018 00:00:08.4699] 
+[*12/05/2018 00:00:08.4699]  Board data initialized
+[===[ ttyUSB0: 2019-09-16 13:50:33 ]===
+*12/05/2018 00:00:08.4699] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.4899] ol_ath_download_firmware :First OTP download and Execute is good address:0x5800 return param 4660
+[*12/05/2018 00:00:08.4899] ol_ath_download_firmware:##Board Id 22 , CHIP Id 0
+[*12/05/2018 00:00:08.4899] 
+[*12/05/2018 00:00:08.4899]  wifi0: Selecting board data file name boardData_Crete_Indoor_2G_neg_pwr.bin
+[*12/05/2018 00:00:08.4899] ol_transfer_bin_file: Board Data File download to address=0xc0000 file name=IPQ4019/hw.1/boardData_Crete_Indoor_2G_neg_pwr.bin
+[*12/05/2018 00:00:08.4899] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.5099] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.5199] 
+[*12/05/2018 00:00:08.5199]  [Flash] : Ignore Module param
+[*12/05/2018 00:00:08.5199] ol_ath_download_firmware : Second OTP download and Execute is good, param=0x0 
+[*12/05/2018 00:00:08.5299] Firmwar===[ ttyUSB0: 2019-09-16 13:50:34 ]===
+e loaded from user helper succesfully
+[*12/05/2018 00:00:08.5299] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.5399] ol_transfer_bin_file: Downloading firmware file: IPQ4019/hw.1/athwlan.bin
+[*12/05/2018 00:00:08.5399] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.7599] HTC Rx: insufficient length, got:4 expected =8
+[*12/05/2018 00:00:09.7599] Startup Mode-0 set
+[*12/05/2018 00:00:09.7599] HTC Service:0x0300 ep:1 TX flow control disabled
+[*12/05/2018 00:00:09.7599] HTC Service:0x0100 ep:2 TX flow control disabled
+[*12/05/2018 00:00:09.7699] Firmware_Build_Number:70 
+[*12/05/2018 00:00:09.7699] num_rf_chain:0x00000002  ht_cap_info:0x0000085b  vht_cap_info:0x339959b2  vht_supp_mcs:0x0000fffa
+[*12/05/2018 00:00:09.7699] 
+[*12/05/2018 00:00:09.7699]  RES CFG Support wmi_service_bitmap 9778 
+[*12/05/2018 00:00:09.7699] 
+[*12/05/2018 00:00:09.7699]  Sending Ext resource cfg: HOST PLATFORM as 0 and fw_feat===[ ttyUSB0: 2019-09-16 13:50:35 ]===
+ure_bitmap as 50 to TGT 
+[*12/05/2018 00:00:09.7699] ol_ath_service_ready_event: sw_cal_support_check_flag: 1
+[*12/05/2018 00:00:09.7699] ol_ath_service_ready_event[4238] WAPI MBSSID 0 
+[*12/05/2018 00:00:09.8099] wmi_ready_event_rx:  WMI UNIFIED READY event 
+[*12/05/2018 00:00:09.8099] htt_h2t_frag_desc_bank_cfg_msg - HTT_H2T_MSG_TYPE_FRAG_DESC_BANK_CFG sent to FW for radio ID = 0
+[*12/05/2018 00:00:09.8199] ACS not enabled 
+[*12/05/2018 00:00:09.8199] ol_ath_thermal_mitigation_attach: --
+[*12/05/2018 00:00:09.8199] ol_ath_ahb_probe
+[*12/05/2018 00:00:09.8199] ol_ath_ahb_probe: io resource start: 0xa800000, mem=0xc3000000
+[*12/05/2018 00:00:09.8199] 
+[*12/05/2018 00:00:09.8199] __ol_ath_attach() Allocated scn b88004c0
+[*12/05/2018 00:00:09.8199] ol_ath_ahb_configure: MSI addr: 0b006040, MSI base: 00000050
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  ol_ath_ahb_configure : num_desired MSI set to 0
+[*12/05/2018 00===[ ttyUSB0: 2019-09-16 13:50:36 ]===
+:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  Using Legacy Interrupt
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  Waiting for target init
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  Done waiting
+[*12/05/2018 00:00:09.8399] ol_ath_attach interface_id 1
+[*12/05/2018 00:00:09.8399] Chip id: 0xb, chip version: 0x1000000
+[*12/05/2018 00:00:09.8399] 
+[*12/05/2018 00:00:09.8399]  Target Version is 1000000
+[*12/05/2018 00:00:09.8399] 
+[*12/05/2018 00:00:09.8399]  Flash Download Address  c0000 
+[*12/05/2018 00:00:09.8399] ol_transfer_bin_file: flash data file defined
+[*12/05/2018 00:00:09.8399] ol_transfer_bin_file[3918] Get Caldata for wifi1.
+[*12/05/2018 00:00:09.8399] __adf_os_fs_read[42], Open File /tmp/wifi1.caldata SUCCESS!!
+[*12/05/2018 00:00:09.8399] file system magic:16914836 
+[*12/05/2018 00:00:09.8399] super blocksize:4096 
+[*12/05/2018 00:00:09.8399] inode 3601 
+[*12/05/2018 00:00:09.8399] file size:12064 
+[*===[ ttyUSB0: 2019-09-16 13:50:37 ]===
+12/05/2018 00:00:09.8399] qc98xx_verify_checksum: flash checksum passed: 0x4e80
+[*12/05/2018 00:00:09.8399] ol_transfer_bin_file 3979: Download Flash data len 12064
+[*12/05/2018 00:00:09.8599] 
+[*12/05/2018 00:00:09.8599]  Board data initialized
+[*12/05/2018 00:00:09.8599] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.8799] ol_ath_download_firmware :First OTP download and Execute is good address:0x5c00 return param 4660
+[*12/05/2018 00:00:09.8799] ol_ath_download_firmware:##Board Id 23 , CHIP Id 0
+[*12/05/2018 00:00:09.8799] 
+[*12/05/2018 00:00:09.8799]  wifi1: Selecting board data file name boardData_Crete_Indoor_5G_neg_pwr.bin
+[*12/05/2018 00:00:09.8799] ol_transfer_bin_file: Board Data File download to address=0xc0000 file name=IPQ4019/hw.1/boardData_Crete_Indoor_5G_neg_pwr.bin
+[*12/05/2018 00:00:09.8799] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.8999] Firmware loaded from user he===[ ttyUSB0: 2019-09-16 13:50:38 ]===
+lper succesfully
+[*12/05/2018 00:00:09.9199] 
+[*12/05/2018 00:00:09.9199]  [Flash] : Ignore Module param
+[*12/05/2018 00:00:09.9199] ol_ath_download_firmware : Second OTP download and Execute is good, param=0x0 
+[*12/05/2018 00:00:09.9199] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.9199] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.9299] ol_transfer_bin_file: Downloading firmware file: IPQ4019/hw.1/athwlan.bin
+[*12/05/2018 00:00:09.9299] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:10.7599] FWLOG: [73332] WAL_DBGID_TX_AC_BUFFER_SET ( 0x3, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:10.7599] FWLOG: [73332] WAL_DBGID_TX_AC_BUFFER_SET ( 0x12, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:10.7599] FWLOG: [73332] WAL_DBGID_TX_AC_BUFFER_SET ( 0x45, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:10.7599] FWLOG: [73332] WAL_DBGID_TX_AC_BUFFER_SE===[ ttyUSB0: 2019-09-16 13:50:39 ]===
+T ( 0x67, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:11.1499] HTC Rx: insufficient length, got:4 expected =8
+[*12/05/2018 00:00:11.1499] Startup Mode-0 set
+[*12/05/2018 00:00:11.1499] HTC Service:0x0300 ep:1 TX flow control disabled
+[*12/05/2018 00:00:11.1599] HTC Service:0x0100 ep:2 TX flow control disabled
+[*12/05/2018 00:00:11.1599] Firmware_Build_Number:70 
+[*12/05/2018 00:00:11.1599] num_rf_chain:0x00000002  ht_cap_info:0x0000085b  vht_cap_info:0x339959b2  vht_supp_mcs:0x0000fffa
+[*12/05/2018 00:00:11.1599] 
+[*12/05/2018 00:00:11.1599]  RES CFG Support wmi_service_bitmap 9778 
+[*12/05/2018 00:00:11.1599] 
+[*12/05/2018 00:00:11.1599]  Sending Ext resource cfg: HOST PLATFORM as 0 and fw_feature_bitmap as 50 to TGT 
+[*12/05/2018 00:00:11.1599] ol_ath_service_ready_event: sw_cal_support_check_flag: 1
+[*12/05/2018 00:00:11.1599] ol_ath_service_ready_eve===[ ttyUSB0: 2019-09-16 13:50:40 ]===
+nt[4238] WAPI MBSSID 0 
+[*12/05/2018 00:00:11.1999] wmi_ready_event_rx:  WMI UNIFIED READY event 
+[*12/05/2018 00:00:11.1999] htt_h2t_frag_desc_bank_cfg_msg - HTT_H2T_MSG_TYPE_FRAG_DESC_BANK_CFG sent to FW for radio ID = 1
+[*12/05/2018 00:00:11.2099] acfg_attach: Offload using existing sock bdecc400
+[*12/05/2018 00:00:11.2099] ACS not enabled 
+[*12/05/2018 00:00:11.2099] ol_ath_thermal_mitigation_attach: --
+[*12/05/2018 00:00:11.2799]  pktlog_init: Initializing Pktlog for AR900B, pktlog_hdr_size = 16
+[*12/05/2018 00:00:11.2799]  pktlog_init: Initializing Pktlog for AR900B, pktlog_hdr_size = 16
+[*12/05/2018 00:00:12.1499] FWLOG: [74758] WAL_DBGID_TX_AC_BUFFER_SET ( 0x3, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74758] WAL_DBGID_TX_AC_BUFFER_SET ( 0x12, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74758] WAL_DBGID_TX_AC_BUFFER_S===[ ttyUSB0: 2019-09-16 13:50:41 ]===
+ET ( 0x45, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74758] WAL_DBGID_TX_AC_BUFFER_SET ( 0x67, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74767] UNKNOWN 22:55 ( 0x3a, 0x10, 0x0, 0x10, 0x0 )
+[*12/05/2018 00:00:12.3999] pid 3635's current affinity mask: f
+[*12/05/2018 00:00:12.3999] pid 3635's new affinity mask: e
+[*12/05/2018 00:00:14.3199] 
+[*12/05/2018 00:00:14.3199] Click sched monitor: schedulers = 3
+[*12/05/2018 00:00:15.0799] click-config/io-real.click:131: While configuring 'todev_wired0 :: ToDevice':
+[*12/05/2018 00:00:15.0799]   warning: device 'wired0' is down
+[*12/05/2018 00:00:15.1199] click-config/io-real.click:131: While configuring 'fromdev_wired0 :: FromDevice':
+[*12/05/2018 00:00:15.1199]   warning: device 'wired0' is down
+[*12/05/2018 00:00:15.9699] click-config/io-real.click:131: While initializing 'tohost_wired0 :: ToHost':
+[*12/05/2018 00:00:15.9699]===[ ttyUSB0: 2019-09-16 13:50:42 ]===
+   warning: device 'wired0' is down
+[*12/05/2018 00:00:16.4599] wmi_dbg_cfg_send: mod[0]00000000 dbgcfg40000000 cfgvalid[0] 00000000 cfgvalid[1] 00000000
+[*12/05/2018 00:00:16.4599] wmi_dbg_cfg_send: mod[0]00000000 dbgcfg40000000 cfgvalid[0] 00000000 cfgvalid[1] 00000000
+[*12/05/2018 00:00:18.1499] chatter: tohost_srcr6 :: ToHost: device 'srcr6' went down
+[*12/05/2018 00:00:18.1799] chatter: tohost_srcr6 :: ToHost: device 'srcr6' c[12/05/2018 00:00:19.5799] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+ame up
+[*12/05/2018 00:00:18.1799] ip6_port srcr6, ip6local fe80::aab4:56ff:fef3:6e90, ip6 ::, plen 0, gw6 ::, gw6_mac 00:00:00:00:00:00, mtu 1500, vid 0, mode6 3(slaac)
+[*12/05/2018 00:00:19.7199] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+===[ ttyUSB0: 2019-09-16 13:50:43 ]===
+===[ ttyUSB0: 2019-09-16 13:50:51 ]===
+[*12/05/2018 00:00:28.4499] Loading sha2...
+[*12/05/2018 00:00:28.4599] Dumpping sha1...
+===[ ttyUSB0: 2019-09-16 13:50:52 ]===
+===[ ttyUSB0: 2019-09-16 13:50:53 ]===
+[*12/05/2018 00:00:30.2099] Loading MIC cert and key
+[*12/05/2018 00:00:30.2199] Dumpping sha2...
+===[ ttyUSB0: 2019-09-16 13:50:54 ]===
+[*12/05/2018 00:00:31.9899] Loading MIC cert and key
+===[ ttyUSB0: 2019-09-16 13:50:55 ]===
+[*12/05/2018 00:00:32.8999] Generating key, this may take a while...
+===[ ttyUSB0: 2019-09-16 13:50:56 ]===
+===[ ttyUSB0: 2019-09-16 13:51:05 ]===
+[*12/05/2018 00:00:42.0299] Public key portion is:
+[*12/05/2018 00:00:42.0299] ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXgZDLmIL2xJ3Ay9VgWnv7bY4ZMgb+Le===[ ttyUSB0: 2019-09-16 13:51:05 ]===
+v+hSBX3hmZzxrTdrbr4OlrQizMovrytVObtEIgzvGzeMZP4ngVCNHo+UGZmNgu4tv0Zp4ghAlpmf8KL7iGfc+EqpbH4BaU+jt/OB7+/8wQvKccan06hbuSfGj93xSfI9SMVXSkiyTbAxRWWgmx1nQ9Ket+aJ4GHNjAWEwxOsBmBILha4oFJ0F+LTcNt/DkDr4UkPcp8uVs6CMPiZXu8lDuphz0VkC9n/7JzKpcEPVad3AkisvCmxIzRsgKHslxBySroPifS8JgW8t/qiTznpFG9foEFKOs7bLNjEVEZD5lnLqhpHj7PfTh root@mA8B456F36E90
+[*12/05/2018 00:00:42.0299] Fingerprint: md5 06:9b:6f:e0:77:c9:c7:b6:8d:ca:4f:63:0d:eb:2e:33
+===[ ttyUSB0: 2019-09-16 13:51:06 ]===
+===[ ttyUSB0: 2019-09-16 13:51:10 ]===
+[*12/05/2018 00:00:47.2499] starting tam services using ACT2...
+[*12/05/2018 00:00:47.2799] pid 5358's current affinity mask: f
+[*12/05/2018 00:00:47.2799] pid 5358's new affinity mask: e
+[*12/05/2018 00:00:47.2999] setting interrupt 200 affinity to 1
+[*12/05/2018 00:00:47.3099] setting interrupt 201 affinity to 1
+===[ ttyUSB0: 2019-09-16 13:51:11 ]===
+[*12/05/2018 00:00:48.3799] Password for 'Cisco' changed
+[*12/05/2018 00:00:48.8099] gzip -dc /etc/wcp.usermodule.template.gz | sed  -e 's/__TX_POWER_2G_FILE__/\/radio_fw\/CO2.csv/g' -e 's/__TX_POWER_5G_FILE__/\/radio_fw\/CO5.csv/g' -e 's/__EVM_POWER_2G_FILE__/\/radio_fw\/EVM_2.csv/g' -e 's/__EVM_POWER_5G_FILE__/\/radio_fw\/EVM_5.csv/g' -e 's/__DOMAIN_2G__/1/g' -e 's/__DOMAIN_5G__/12/g' -e 's/__PWR_TABLE_49G__/0/g' -e 's/__PRO===[ ttyUSB0: 2019-09-16 13:51:12 ]===
+DUCT_ID__/AIR-AP1815M-E-K9/g' -e 's/__AP_TYPE__/73/g' -e 's/__WIRELESS_MAC__/70:EA:1A:84:47:60/g' -e 's/__WIRED_MAC__/A8:B4:56:F3:6E:90/g' -e 's/__WIRED1_MAC__/A8:B4:56:F3:6E:90/g' | DMALLOC_OPTIONS=debug=0x400003,inter=1000,log=/tmp/wcp.dmalloc.log,limit=40000000 wcpd &
+===[ ttyUSB0: 2019-09-16 13:51:13 ]===
+[*12/05/2018 00:00:51.0499] DOT11_DRV[0]: Init Radio0
+[*12/05/2018 00:00:51.0899] DOT11_DRV[0]: Stop Radio0
+[*12/05/2018 00:00:51.0999] DOT11_DR===[ ttyUSB0: 2019-09-16 13:51:14 ]===
+V[0]: set_channel Channel set to 6
+[*12/05/2018 00:00:51.1099] DOT11_DRV[1]: Init Radio1
+[*12/05/2018 00:00:51.1399] DOT11_DRV[1]: Stop Radio1
+[*12/05/2018 00:00:51.1499] DOT11_DRV[1]: set_channel Channel set to 36
+[*12/05/2018 00:00:51.1599] CRIT-MeshControl: 
+[*12/05/2018 00:00:51.1599] Mesh Control: skipped adding wired1 backhaul
+[*12/05/2018 00:00:51.8999] DOT11_CFG[0] Radio Mode is changed from Local to Local
+[*12/05/2018 00:00:51.8999] DOT11_CFG[1] Radio Mode is changed from Local to Local
+[*12/05/2018 00:00:51.9199] DOT11_DRV[0]: set_channel Channel set to 1
+[*12/05/2018 00:00:51.9199] DOT11_DRV[0]: Cha===[ ttyUSB0: 2019-09-16 13:51:15 ]===
+nnel set to 1, width 20
+[*12/05/2018 00:00:51.9299] DOT11_DRV[0]: Channel set to 1, width 20
+[*12/05/2018 00:00:51.9399] DOT11_DRV[1]: set_channel Channel set to 36
+[*12/05/2018 00:00:51.9499] DOT11_DRV[1]: Channel set to 36, width 20
+[*12/05/2018 00:00:51.9599] DOT11_DRV[1]: Channel set to 36, width 20
+===[ ttyUSB0: 2019-09-16 13:51:16 ]===
+===[ ttyUSB0: 2019-09-16 13:51:19 ]===
+[*12/05/2018 00:00:55.9699] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:19 ]===
+===[ ttyUSB0: 2019-09-16 13:51:24 ]===
+[*12/05/2018 00:01:00.9699] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:26 ]===
+===[ ttyUSB0: 2019-09-16 13:51:29 ]===
+[*12/05/2018 00:01:05.9699] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:30 ]===
+===[ ttyUSB0: 2019-09-16 13:51:34 ]===
+[*12/05/2018 00:01:10.9799] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:35 ]===
+===[ ttyUSB0: 2019-09-16 13:51:39 ]===
+[*12/05/2018 00:01:15.9799] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:40 ]===
+===[ ttyUSB0: 2019-09-16 13:51:44 ]===
+[*12/05/2018 00:01:20.9799] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:45 ]===
+===[ ttyUSB0: 2019-09-16 13:51:49 ]===
+[*12/05/2018 00:01:25.9899] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:50 ]===
+===[ ttyUSB0: 2019-09-16 13:51:54 ]===
+[*12/05/2018 00:01:30.9899] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:51:55 ]===
+===[ ttyUSB0: 2019-09-16 13:51:59 ]===
+[*12/05/2018 00:01:35.9899] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:52:00 ]===
+===[ ttyUSB0: 2019-09-16 13:52:04 ]===
+[*12/05/2018 00:01:40.9999] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:52:05 ]===
+[*12/05/2018 00:01:41.9999] Resetting wired0 and restart DHCP client
+===[ ttyUSB0: 2019-09-16 13:52:06 ]===
+===[ ttyUSB0: 2019-09-16 13:52:07 ]===
+[*12/05/2018 00:01:44.0199] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+===[ ttyUSB0: 2019-09-16 13:52:08 ]===
+===[ ttyUSB0: 2019-09-16 13:52:09 ]===
+[12/05/2018 00:01:46.7099] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:01:46.7999] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+===[ ttyUSB0: 2019-09-16 13:52:10 ]===
+===[ ttyUSB0: 2019-09-16 13:52:11 ]===
+[*12/05/2018 00:01:48.1399] Waiting for uplink IPv4 configuration
+===[ ttyUSB0: 2019-09-16 13:52:12 ]===
