@@ -1,0 +1,17 @@
+# Things todo 
+
+* Install rasbian 
+* On 1st boot: Connect to WiFi
+* Configure RPi settings
+** Hostname
+** Disable auto-login
+** Enable SSH
+** Enable VNC
+** Reboot
+
+* Run setup.sh
+* Reboot
+
+
+## Assumptions
+* USB serial device is hardcoded to USBTTY0
