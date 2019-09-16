@@ -15,3 +15,10 @@
 
 ## Assumptions
 * USB serial device is hardcoded to USBTTY0
+
+## To implement 
+* Need to have
+** Pinger (smokeping?)
+* Nice to have 
+** call home
+** auto export 
