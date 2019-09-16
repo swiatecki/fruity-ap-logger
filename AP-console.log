@@ -915,4 +915,767 @@ ame up
 [*12/05/2018 00:20:51.2599] Waiting for uplink IPv4 configuration
 ===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:55:35 ]===
 [*12/05/2018 00:20:56.2599] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:21:23.4199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:55:57 ]===
+[*12/05/2018 00:21:28.4199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:02 ]===
+[*12/05/2018 00:21:33.4199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:07 ]===
+[*12/05/2018 00:21:38.4299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:12 ]===
+[*12/05/2018 00:21:43.4299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:17 ]===
+[*12/05/2018 00:21:48.4299] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:21:53.4399] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:21:54.4399] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:21:56.4599] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:21:59.5699] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:21:59.6599] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:22:00.5799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:45 ]===
+[*12/05/2018 00:22:05.5799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:50 ]===
+[*12/05/2018 00:22:10.5899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:56:55 ]===
+[*12/05/2018 00:22:15.5899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:00 ]===
+[*12/05/2018 00:22:20.5899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:05 ]===
+[*12/05/2018 00:22:25.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:10 ]===
+[*12/05/2018 00:22:30.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:15 ]===
+[*12/05/2018 00:22:35.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:20 ]===
+[*12/05/2018 00:22:40.6099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:25 ]===
+[*12/05/2018 00:22:45.6099] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:22:46.6099] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:22:48.6299] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:22:51.6499] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:22:51.7399] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:22:52.7499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:37 ]===
+[*12/05/2018 00:22:57.7499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:42 ]===
+[*12/05/2018 00:23:02.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:47 ]===
+[*12/05/2018 00:23:07.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:52 ]===
+[*12/05/2018 00:23:12.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:57:57 ]===
+[*12/05/2018 00:23:17.7699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:02 ]===
+[*12/05/2018 00:23:22.7699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:07 ]===
+[*12/05/2018 00:23:27.7699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:12 ]===
+[*12/05/2018 00:23:32.7799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:17 ]===
+[*12/05/2018 00:23:37.7799] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:23:38.7799] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:23:40.8099] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:23:43.7299] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:23:43.8199] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:23:44.9199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:30 ]===
+[*12/05/2018 00:23:49.9199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:35 ]===
+[*12/05/2018 00:23:54.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:40 ]===
+[*12/05/2018 00:23:59.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:45 ]===
+[*12/05/2018 00:24:04.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:50 ]===
+[*12/05/2018 00:24:09.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:58:55 ]===
+[*12/05/2018 00:24:14.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:00 ]===
+[*12/05/2018 00:24:19.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:05 ]===
+[*12/05/2018 00:24:24.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:10 ]===
+[*12/05/2018 00:24:29.9499] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:24:30.9499] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:24:32.9699] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:24:35.8099] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:24:35.8999] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:24:37.0899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:22 ]===
+[*12/05/2018 00:24:42.0899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:27 ]===
+[*12/05/2018 00:24:47.0999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:32 ]===
+[*12/05/2018 00:24:52.0999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:37 ]===
+[*12/05/2018 00:24:57.0999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:42 ]===
+[*12/05/2018 00:25:02.1099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:47 ]===
+[*12/05/2018 00:25:07.1099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:52 ]===
+[*12/05/2018 00:25:12.1099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 15:59:57 ]===
+[*12/05/2018 00:25:17.1199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:02 ]===
+[*12/05/2018 00:25:22.1199] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:25:23.1199] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:25:25.1399] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:25:27.8899] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:25:27.9799] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:25:29.2599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:14 ]===
+[*12/05/2018 00:25:34.2599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:19 ]===
+[*12/05/2018 00:25:39.2699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:24 ]===
+[*12/05/2018 00:25:44.2699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:29 ]===
+[*12/05/2018 00:25:49.2699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:34 ]===
+[*12/05/2018 00:25:54.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:39 ]===
+[*12/05/2018 00:25:59.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:44 ]===
+[*12/05/2018 00:26:04.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:49 ]===
+[*12/05/2018 00:26:09.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:00:54 ]===
+[*12/05/2018 00:26:14.2899] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:26:15.2899] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:26:17.3199] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:26:19.9699] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:26:20.0599] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:26:21.4299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:06 ]===
+[*12/05/2018 00:26:26.4299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:11 ]===
+[*12/05/2018 00:26:31.4399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:16 ]===
+[*12/05/2018 00:26:36.4399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:21 ]===
+[*12/05/2018 00:26:41.4399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:26 ]===
+[*12/05/2018 00:26:46.4499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:31 ]===
+[*12/05/2018 00:26:51.4499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:36 ]===
+[*12/05/2018 00:26:56.4499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:41 ]===
+[*12/05/2018 00:27:01.4599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:46 ]===
+[*12/05/2018 00:27:06.4599] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:27:07.4599] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:27:09.4899] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:27:13.0499] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:27:13.1399] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:27:13.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:01:58 ]===
+[*12/05/2018 00:27:18.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:03 ]===
+[*12/05/2018 00:27:23.6099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:08 ]===
+[*12/05/2018 00:27:28.6099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:13 ]===
+[*12/05/2018 00:27:33.6099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:18 ]===
+[*12/05/2018 00:27:38.6199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:23 ]===
+[*12/05/2018 00:27:43.6199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:28 ]===
+[*12/05/2018 00:27:48.6199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:33 ]===
+[*12/05/2018 00:27:53.6299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:02:38 ]===
+[*12/05/2018 00:27:58.6299] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:27:59.6299] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:28:01.6599] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:28:05.1299] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:28:05.2199] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:28:05.7699] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:10.7799] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:15.7799] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:20.7799] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:25.7899] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:30.7899] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:35.7899] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:40.7899] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:45.7999] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:50.7999] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:28:51.7999] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:28:53.8299] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:28:57.2099] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:28:57.2999] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:28:57.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:03:43 ]===
+[*12/05/2018 00:29:02.9499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:03:48 ]===
+[*12/05/2018 00:29:07.9499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:03:53 ]===
+[*12/05/2018 00:29:12.9499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:03:58 ]===
+[*12/05/2018 00:29:17.9599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:03 ]===
+[*12/05/2018 00:29:22.9599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:08 ]===
+[*12/05/2018 00:29:27.9599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:13 ]===
+[*12/05/2018 00:29:32.9699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:18 ]===
+[*12/05/2018 00:29:37.9699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:23 ]===
+[*12/05/2018 00:29:42.9699] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:29:43.9699] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:29:45.9999] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:29:49.2999] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:29:49.3899] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:29:50.1099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:35 ]===
+[*12/05/2018 00:29:55.1199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:40 ]===
+[*12/05/2018 00:30:00.1199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:45 ]===
+[*12/05/2018 00:30:05.1199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:50 ]===
+[*12/05/2018 00:30:10.1299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:04:55 ]===
+[*12/05/2018 00:30:15.1299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:00 ]===
+[*12/05/2018 00:30:20.1299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:05 ]===
+[*12/05/2018 00:30:25.1399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:10 ]===
+[*12/05/2018 00:30:30.1399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:15 ]===
+[*12/05/2018 00:30:35.1399] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:30:36.1399] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:30:38.1699] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:30:41.3799] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:30:41.4699] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:30:42.2799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:27 ]===
+[*12/05/2018 00:30:47.2899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:32 ]===
+[*12/05/2018 00:30:52.2899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:37 ]===
+[*12/05/2018 00:30:57.2999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:42 ]===
+[*12/05/2018 00:31:02.2999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:47 ]===
+[*12/05/2018 00:31:07.2999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:52 ]===
+[*12/05/2018 00:31:12.2999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:57 ]===
+[*12/05/2018 00:31:17.3099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:06:02 ]===
+[*12/05/2018 00:31:22.3099] Waiting for uplink IPv4 configuration
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [*12/05/2018 00:33:38.8099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:12 ]===
+[*12/05/2018 00:33:43.8199] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:33:48.8199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:21 ]===
+[*12/05/2018 00:33:53.8199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:26 ]===
+[*12/05/2018 00:33:58.8199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:05:31 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:08:48 ]===
+
+Board type: AP1815M
+smem ram ptable found: ver: 1 len: 3
+
+
+U-Boot 2012.07 (btldr release 36) (Oct 13 2017 - 10:35:07)
+
+This product contains some software licensed under the
+"GNU General Public License, version 2" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+DRAM:  1022 MiB
+Nand: Detected ONFI Winbond NAND 256MiB 3,3V 8-bit
+NAND ECC=1 ECC_THRESHOLD(NAND ECC-1)=0
+SF: Detected W25Q32 with page size 4 KiB, total 4 MiB
+MFG data loaded
+Scanning shenv data blocks
+Total valid parts=4
+Active shenv part[1:0], write_counter=7
+machid: 8010001
+Net:   MAC0 addr:a8:b4:56:f3:6e:90
+AR8033 PHY 0
+PHY ID1: 0x4d
+PHY ID2: 0xd072
+ipq40xx_ess_sw_init done
+Auto boot mode, use bootipq directly
+Hit ESC key to stop autoboot:  2  1  0 
+Specified BOOT: part2 
+
+Booting from part2
+
+Read 1024 bytes from volume part2 to 88000000
+Read 22732367 bytes from volume part2 to 88000000
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:08:59 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:09:05 ]===
+Signature returns 0
+Image signing verification success, continue to run... 
+bootm 0x88000400 
+## Booting kernel from Legacy Image at 88000400 ...
+## Loading init Ramdisk from multi component Legacy Image at 88000400 ...
+## Flattened Device Tree from multi component Image at 88000400
+   Booting using the fdt at 0x895a4a08
+   Loading Ramdisk to 9ec25000, end 9fffffcd ... OK
+   Loading Device Tree to 9ec19000, end 9ec24c46 ... OK
+no such device nand0
+Using machid 0x8010001 from environment
+
+Starting image ...
+
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:09:15 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:09:34 ]===
+[01/01/1970 00:00:22.7799] Linux version 3.14.43 (vipendya@wireless-lnx2) (gcc version 4.7.1 (OpenWrt GCC 4.7.1 r48430) ) #1 SMP PREEMPT Tue Jun 5 00:45:36 PDT 2018
+[01/01/1970 00:00:22.9399] CPU: ARMv7 Processor [410fc075] revision 5 (ARMv7), cr=10c5387d
+[01/01/1970 00:00:23.0399] CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+[01/01/1970 00:00:23.1399] Machine model: Cisco 11ac Wave2 Wifi Access Point
+[01/01/1970 00:00:23.2199] Memory policy: Data cache writealloc
+[01/01/1970 00:00:23.2899] Kernel command line: console=ttyMSM0,9600n8 ubi.mtd=0 root=/dev/ram activepart=part2 activeboot=0 wdgtriggered=0 board_sku=4 clk_ignore_unused
+[01/01/1970 00:00:23.4699] CPU1: Booted secondary processor
+[01/01/1970 00:00:23.5299] CPU2: Booted secondary processor
+[01/01/1970 00:00:23.5999] CPU3: Booted secondary processor
+[01/01/1970 00:00:23.6599] buginf tty flushing thread started, ttyport=be9f8400
+[*01/01/1970 00:00:27.0599] buginf() enabled.
+[*01/01/1970 00:00:27.0899] Made it into bootsh: Jun  5 2018 00:50:45
+
+Welcome to Cisco.
+
+Usage of this device is governed by Cisco's End User License Agreement,
+available at:
+http://www.cisco.com/c/en/us/td/docs/general/warranty/English/EU1KEN_.html.
+
+
+[*01/01/1970 00:00:27.0899] bootsh build T-eb8875394ad25c6d61b54b35d0937f2f9ded3dd6-geb887539-vipendya
+             Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is subject to
+restrictions as set forth in subparagraph (c) of the Commercial
+Computer Software - Restricted Rights clause at FAR sec. 52.227-19 and
+subparagraph (c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+            Cisco Systems, Inc.
+            170 West Tasman Drive
+            San Jose, California 95134-1706
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+
+This product contains some software licensed under the
+"GNU General Public License, version 2" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+
+This product contains some software licensed under the
+"GNU Library General Public License, version 2" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Library
+General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+
+
+This product contains some software licensed under the
+"GNU Lesser General Public License, version 2.1" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Lesser
+General Public License, version 2.1", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+
+This product contains some software licensed under the 
+"GNU General Public License, version 3" provided with 
+ABSOLUTELY NO WARRANTY under the terms of  
+"GNU General Public License, Version 3", available here: 
+http://www.gnu.org/licenses/gpl.html.
+
+
+This product contains some software licensed under the
+"GNU Affero General Public License, version 3" provided
+with ABSOLUTELY NO WARRANTY under the terms of
+"GNU Affero General Public License, version 3", available here:
+http://www.gnu.org/licenses/agpl-3.0.html.
+
+error: open /dev/board-config
+error: open /dev/board-config
+error: open /dev/board-config
+error: open /dev/board-config
+[*01/01/1970 00:00:28.6799] init started: BusyBox v1.23.2 (2018-06-05 00:35:33 PDT)
+[*01/01/1970 00:00:30.5999] GCM-128 POST passed
+[*01/01/1970 00:00:30.5999] GCM-256 POST passed
+[*01/01/1970 00:00:30.7399] ===   5G radio domain is 12, COPY 5G BDF files from ETSI_BDF folder   ===
+[*01/01/1970 00:00:30.9499] Active version: 8.5.131.0
+[*01/01/1970 00:00:30.9599] Backup version: 0.0.0.0
+[*01/01/1970 00:00:31.3599] 
+[*01/01/1970 00:00:31.3599]  led pattern module start 
+[*01/01/1970 00:00:31.4099] Loading caldata from mtd2
+Jan  1 00:00:31 FIPS[2899]: *** shell: FIPS Mode = disabled ***
+
+
+
+User Access Verification
+Username: [*01/01/1970 00:00:31.7899] ess-switch DT exist!
+[*01/01/1970 00:00:31.7899] switchreg_base_addr: 0xc000000
+[*01/01/1970 00:00:31.7899] switchreg_size: 0x80000
+[*01/01/1970 00:00:31.7899] switch_access_mode: local bus
+[*01/01/1970 00:00:31.7899] wan bmp:0x20
+[*01/01/1970 00:00:31.7899] ess-psgmii DT exist!
+[*01/01/1970 00:00:31.7899] mac mode=3
+[*01/01/1970 00:00:31.7899] current mac mode = 3
+[*01/01/1970 00:00:31.7899] current dts led_source_num is 5
+[*01/01/1970 00:00:31.7899] mdio DT exist!
+[*01/01/1970 00:00:31.7899] ssdk_plat_init start
+[*01/01/1970 00:00:31.7899] enable ess clk
+[*01/01/1970 00:00:31.8999] reset ok in probe!
+[*01/01/1970 00:00:31.8999] PHY ID is 0x4dd072
+[*01/01/1970 00:00:31.9599] Dakota Chip version 0x1401
+[*01/01/1970 00:00:31.9599] 
+[*01/01/1970 00:00:31.9599] QCA Switch config done.
+[*01/01/1970 00:00:31.9699] gcc map success!
+[*01/01/1970 00:00:32.0199] qca-ssdk module init succeeded!
+[*01/01/1970 00:00:32.0199] 
+[*01/01/1970 00:00:32.0199] QCA Switch config done.
+[*01/01/1970 00:00:32.2199] crypto worker thread started
+[*01/01/1970 00:00:32.2199] crypto worker thread started
+[*01/01/1970 00:00:32.2799] pid 3163's current affinity mask: f
+[*01/01/1970 00:00:32.2799] pid 3163's new affinity mask: e
+[*01/01/1970 00:00:32.2899] pid 3160's current affinity mask: f
+[*01/01/1970 00:00:32.2899] pid 3160's new affinity mask: e
+[*01/01/1970 00:00:32.5199] Current value of FACTORY_RESET=0
+[*12/04/2018 23:59:59.0099] Last reload time: Dec 4 23:59:59 2018
+[*12/04/2018 23:59:59.0000] Setting system time Tue Dec  4 23:59:59 UTC 2018
+[*12/04/2018 23:59:59.0799] device wired0 entered promiscuous mode
+[*12/05/2018 00:00:02.0899] 
+[*12/05/2018 00:00:02.0899] 
+[*12/05/2018 00:00:02.0899] 
+[*12/05/2018 00:00:02.0899] 
+[*12/05/2018 00:00:02.0899] Authenticating ACT2 ID:AP1815              
+[*12/05/2018 00:00:02.0899] Authenticating SN:FOC22467XDE
+[*12/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.0999] (ACT2Boot) Hardware is Cisco (c) authentic :-)
+[*12/05/2018 00:00:02.0999] 
+[*12/05/2018 00:00:02.1099] Seeding /dev/urandom from ACT2
+[*12/05/2018 00:00:02.7399] Reading ACT2 SUDI certificates
+[*12/05/2018 00:00:04.3899] stile module dp init successfully
+[*12/05/2018 00:00:04.3899] NBAR Label:BLD_MCP_DEV_LATEST_20150424_123021 NBAR VERSION:module build date: Jun  5 2018 at 00:48:48
+[*12/05/2018 00:00:04.7299] pid 3321's current affinity mask: f
+[*12/05/2018 00:00:04.7299] pid 3321's new affinity mask: e
+[*12/05/2018 00:00:04.7399] pid 3320's current affinity mask: f
+[*12/05/2018 00:00:04.7399] pid 3320's new affinity mask: e
+[*12/05/2018 00:00:04.7399] pid 3319's current affinity mask: f
+[*12/05/2018 00:00:04.7399] pid 3319's new affinity mask: e
+[*12/05/2018 00:00:05.3799] 
+[*12/05/2018 00:00:05.3999] boot 6 build T-eb8875394ad25c6d61b54b35d0937f2f9ded3dd6-geb887539-vipendya board mallorca mac A8:B4:56:F3:6E:90
+[*12/05/2018 00:00:05.4099] Module: mbedtls  .text=0x7f000000        data=0x7f0075e0        bss=0x7f007840
+[*12/05/2018 00:00:05.4099] Module: aptrace  .text=0x7f00c000        data=0x7f017fb0        bss=0x7f018498
+[*12/05/2018 00:00:05.4099] Module: led_module  .text=0x7f020000        data=0x7f020594        bss=0x7f020c04
+[*12/05/2018 00:00:05.4099] Module: qca_ssdk  .text=0x7f024000        data=0x7f0ba100        bss=0x7f0bfba4
+[*12/05/2018 00:00:05.4099] Module: essedma  .text=0x7f111000        data=0x7f117980        bss=0x7f117e14
+[*12/05/2018 00:00:05.4099] Module: crypto_netdev  .text=0x7f11f000        data=0x7f121ec0        bss=0x7f122120
+[*12/05/2018 00:00:05.4099] Module: act2_driver  .text=0x7f12b000        data=0x7f12b76c        bss=0x7f12b9f0
+[*12/05/2018 00:00:05.4099] Module: proclikefs  .text=0x7f12f000        data=        bss=0x7f12fb80
+[*12/05/2018 00:00:05.4099] Module: stile_lm_ft  .text=        data=        bss=
+[*12/05/2018 00:00:05.4099] Module: stile_lm_dp  .text=        data=        bss=
+[*12/05/2018 00:00:05.4099] Module: ipv6  .text=0x7fc64000        data=0x7fc9d1c0        bss=0x7fc9e7c0
+[*12/05/2018 00:00:05.4099] Module: llc  .text=0x7fcc5000        data=0x7fcc5850        bss=0x7fcc59dc
+[*12/05/2018 00:00:05.4099] Module: stp  .text=0x7fcca000        data=0x7fcca280        bss=0x7fcca42c
+[*12/05/2018 00:00:05.4099] Module: bridge  .text=0x7fcce000        data=0x7fcd6ad4        bss=0x7fcd6f14
+[*12/05/2018 00:00:05.4099] Module: p8022  .text=0x7fce4000        data=        bss=
+[*12/05/2018 00:00:05.4099] Module: psnap  .text=0x7fce8000        data=0x7fce8348        bss=0x7fce84b8
+[*12/05/2018 00:00:05.4099] Module: reed_solomon  .text=0x7fcec000        data=0x7fced404        bss=
+[*12/05/2018 00:00:06.0499] Last reload reason : 0: unknown
+[*12/05/2018 00:00:08.3499] __mm_init_module 
+[*12/05/2018 00:00:08.4199] ol_ath_ahb_probe
+[*12/05/2018 00:00:08.4199] ol_ath_ahb_probe: io resource start: 0xa000000, mem=0xc2800000
+[*12/05/2018 00:00:08.4199] 
+[*12/05/2018 00:00:08.4199] __ol_ath_attach() Allocated scn 9f3c04c0
+[*12/05/2018 00:00:08.4199] ol_ath_ahb_configure: MSI addr: 0b006040, MSI base: 00000040
+[*12/05/2018 00:00:08.4299] 
+[*12/05/2018 00:00:08.4299]  ol_ath_ahb_configure : num_desired MSI set to 0
+[*12/05/2018 00:00:08.4299] 
+[*12/05/2018 00:00:08.4299]  Using Legacy Interrupt
+[*12/05/2018 00:00:08.4299] 
+[*12/05/2018 00:00:08.4299]  Waiting for target init
+[*12/05/2018 00:00:08.4299] 
+[*12/05/2018 00:00:08.4299]  Done waiting
+[*12/05/2018 00:00:08.4399] ol_ath_attach interface_id 0
+[*12/05/2018 00:00:08.4399] Chip id: 0xb, chip version: 0x1000000
+[*12/05/2018 00:00:08.4399] 
+[*12/05/2018 00:00:08.4399]  Target Version is 1000000
+[*12/05/2018 00:00:08.4399] 
+[*12/05/2018 00:00:08.4399]  Flash Download Address  c0000 
+[*12/05/2018 00:00:08.4399] ol_transfer_bin_file: flash data file defined
+[*12/05/2018 00:00:08.4399] ol_transfer_bin_file[3918] Get Caldata for wifi0.
+[*12/05/2018 00:00:08.4399] __adf_os_fs_read[42], Open File /tmp/wifi0.caldata SUCCESS!!
+[*12/05/2018 00:00:08.4399] file system magic:16914836 
+[*12/05/2018 00:00:08.4399] super blocksize:4096 
+[*12/05/2018 00:00:08.4399] inode 3515 
+[*12/05/2018 00:00:08.4399] file size:12064 
+[*12/05/2018 00:00:08.4399] qc98xx_verify_checksum: flash checksum passed: 0xa9ab
+[*12/05/2018 00:00:08.4399] ol_transfer_bin_file 3979: Download Flash data len 12064
+[*12/05/2018 00:00:08.4599] 
+[*12/05/2018 00:00:08.4599]  Board data initialized
+[*12/05/2018 00:00:08.4599] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.4799] ol_ath_download_firmware :First OTP download and Execute is good address:0x5800 return param 4660
+[*12/05/2018 00:00:08.4799] ol_ath_download_firmware:##Board Id 22 , CHIP Id 0
+[*12/05/2018 00:00:08.4799] 
+[*12/05/2018 00:00:08.4799]  wifi0: Selecting board data file name boardData_Crete_Indoor_2G_neg_pwr.bin
+[*12/05/2018 00:00:08.4799] ol_transfer_bin_file: Board Data File download to address=0xc0000 file name=IPQ4019/hw.1/boardData_Crete_Indoor_2G_neg_pwr.bin
+[*12/05/2018 00:00:08.4799] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.4999] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.5199] 
+[*12/05/2018 00:00:08.5199]  [Flash] : Ignore Module param
+[*12/05/2018 00:00:08.5199] ol_ath_download_firmware : Second OTP download and Execute is good, param=0x0 
+[*12/05/2018 00:00:08.5199] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.5199] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:08.5299] ol_transfer_bin_file: Downloading firmware file: IPQ4019/hw.1/athwlan.bin
+[*12/05/2018 00:00:08.5299] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.7499] HTC Rx: insufficient length, got:4 expected =8
+[*12/05/2018 00:00:09.7499] Startup Mode-0 set
+[*12/05/2018 00:00:09.7499] HTC Service:0x0300 ep:1 TX flow control disabled
+[*12/05/2018 00:00:09.7599] HTC Service:0x0100 ep:2 TX flow control disabled
+[*12/05/2018 00:00:09.7599] Firmware_Build_Number:70 
+[*12/05/2018 00:00:09.7599] num_rf_chain:0x00000002  ht_cap_info:0x0000085b  vht_cap_info:0x339959b2  vht_supp_mcs:0x0000fffa
+[*12/05/2018 00:00:09.7599] 
+[*12/05/2018 00:00:09.7599]  RES CFG Support wmi_service_bitmap 9778 
+[*12/05/2018 00:00:09.7599] 
+[*12/05/2018 00:00:09.7599]  Sending Ext resource cfg: HOST PLATFORM as 0 and fw_feature_bitmap as 50 to TGT 
+[*12/05/2018 00:00:09.7599] ol_ath_service_ready_event: sw_cal_support_check_flag: 1
+[*12/05/2018 00:00:09.7599] ol_ath_service_ready_event[4238] WAPI MBSSID 0 
+[*12/05/2018 00:00:09.7999] wmi_ready_event_rx:  WMI UNIFIED READY event 
+[*12/05/2018 00:00:09.7999] htt_h2t_frag_desc_bank_cfg_msg - HTT_H2T_MSG_TYPE_FRAG_DESC_BANK_CFG sent to FW for radio ID = 0
+[*12/05/2018 00:00:09.8099] ACS not enabled 
+[*12/05/2018 00:00:09.8099] ol_ath_thermal_mitigation_attach: --
+[*12/05/2018 00:00:09.8199] ol_ath_ahb_probe
+[*12/05/2018 00:00:09.8199] ol_ath_ahb_probe: io resource start: 0xa800000, mem=0xc3000000
+[*12/05/2018 00:00:09.8199] 
+[*12/05/2018 00:00:09.8199] __ol_ath_attach() Allocated scn b88404c0
+[*12/05/2018 00:00:09.8199] ol_ath_ahb_configure: MSI addr: 0b006040, MSI base: 00000050
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  ol_ath_ahb_configure : num_desired MSI set to 0
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  Using Legacy Interrupt
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  Waiting for target init
+[*12/05/2018 00:00:09.8299] 
+[*12/05/2018 00:00:09.8299]  Done waiting
+[*12/05/2018 00:00:09.8399] ol_ath_attach interface_id 1
+[*12/05/2018 00:00:09.8399] Chip id: 0xb, chip version: 0x1000000
+[*12/05/2018 00:00:09.8399] 
+[*12/05/2018 00:00:09.8399]  Target Version is 1000000
+[*12/05/2018 00:00:09.8399] 
+[*12/05/2018 00:00:09.8399]  Flash Download Address  c0000 
+[*12/05/2018 00:00:09.8399] ol_transfer_bin_file: flash data file defined
+[*12/05/2018 00:00:09.8399] ol_transfer_bin_file[3918] Get Caldata for wifi1.
+[*12/05/2018 00:00:09.8399] __adf_os_fs_read[42], Open File /tmp/wifi1.caldata SUCCESS!!
+[*12/05/2018 00:00:09.8399] file system magic:16914836 
+[*12/05/2018 00:00:09.8399] super blocksize:4096 
+[*12/05/2018 00:00:09.8399] inode 3516 
+[*12/05/2018 00:00:09.8399] file size:12064 
+[*12/05/2018 00:00:09.8399] qc98xx_verify_checksum: flash checksum passed: 0x4e80
+[*12/05/2018 00:00:09.8399] ol_transfer_bin_file 3979: Download Flash data len 12064
+[*12/05/2018 00:00:09.8599] 
+[*12/05/2018 00:00:09.8599]  Board data initialized
+[*12/05/2018 00:00:09.8599] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.8799] ol_ath_download_firmware :First OTP download and Execute is good address:0x5c00 return param 4660
+[*12/05/2018 00:00:09.8799] ol_ath_download_firmware:##Board Id 23 , CHIP Id 0
+[*12/05/2018 00:00:09.8799] 
+[*12/05/2018 00:00:09.8799]  wifi1: Selecting board data file name boardData_Crete_Indoor_5G_neg_pwr.bin
+[*12/05/2018 00:00:09.8799] ol_transfer_bin_file: Board Data File download to address=0xc0000 file name=IPQ4019/hw.1/boardData_Crete_Indoor_5G_neg_pwr.bin
+[*12/05/2018 00:00:09.8799] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.8999] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.9099] 
+[*12/05/2018 00:00:09.9099]  [Flash] : Ignore Module param
+[*12/05/2018 00:00:09.9099] ol_ath_download_firmware : Second OTP download and Execute is good, param=0x0 
+[*12/05/2018 00:00:09.9099] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.9199] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:09.9199] ol_transfer_bin_file: Downloading firmware file: IPQ4019/hw.1/athwlan.bin
+[*12/05/2018 00:00:09.9299] Firmware loaded from user helper succesfully
+[*12/05/2018 00:00:10.7499] FWLOG: [73337] WAL_DBGID_TX_AC_BUFFER_SET ( 0x3, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:10.7499] FWLOG: [73337] WAL_DBGID_TX_AC_BUFFER_SET ( 0x12, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:10.7499] FWLOG: [73337] WAL_DBGID_TX_AC_BUFFER_SET ( 0x45, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:10.7499] FWLOG: [73337] WAL_DBGID_TX_AC_BUFFER_SET ( 0x67, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:11.1499] HTC Rx: insufficient length, got:4 expected =8
+[*12/05/2018 00:00:11.1499] Startup Mode-0 set
+[*12/05/2018 00:00:11.1499] HTC Service:0x0300 ep:1 TX flow control disabled
+[*12/05/2018 00:00:11.1499] HTC Service:0x0100 ep:2 TX flow control disabled
+[*12/05/2018 00:00:11.1599] Firmware_Build_Number:70 
+[*12/05/2018 00:00:11.1599] num_rf_chain:0x00000002  ht_cap_info:0x0000085b  vht_cap_info:0x339959b2  vht_supp_mcs:0x0000fffa
+[*12/05/2018 00:00:11.1599] 
+[*12/05/2018 00:00:11.1599]  RES CFG Support wmi_service_bitmap 9778 
+[*12/05/2018 00:00:11.1599] 
+[*12/05/2018 00:00:11.1599]  Sending Ext resource cfg: HOST PLATFORM as 0 and fw_feature_bitmap as 50 to TGT 
+[*12/05/2018 00:00:11.1599] ol_ath_service_ready_event: sw_cal_support_check_flag: 1
+[*12/05/2018 00:00:11.1599] ol_ath_service_ready_event[4238] WAPI MBSSID 0 
+[*12/05/2018 00:00:11.1999] wmi_ready_event_rx:  WMI UNIFIED READY event 
+[*12/05/2018 00:00:11.1999] htt_h2t_frag_desc_bank_cfg_msg - HTT_H2T_MSG_TYPE_FRAG_DESC_BANK_CFG sent to FW for radio ID = 1
+[*12/05/2018 00:00:11.1999] acfg_attach: Offload using existing sock 9f798800
+[*12/05/2018 00:00:11.2099] ACS not enabled 
+[*12/05/2018 00:00:11.2099] ol_ath_thermal_mitigation_attach: --
+[*12/05/2018 00:00:11.2799]  pktlog_init: Initializing Pktlog for AR900B, pktlog_hdr_size = 16
+[*12/05/2018 00:00:11.2899]  pktlog_init: Initializing Pktlog for AR900B, pktlog_hdr_size = 16
+[*12/05/2018 00:00:12.1499] FWLOG: [74768] WAL_DBGID_TX_AC_BUFFER_SET ( 0x3, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74768] WAL_DBGID_TX_AC_BUFFER_SET ( 0x12, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74768] WAL_DBGID_TX_AC_BUFFER_SET ( 0x45, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74768] WAL_DBGID_TX_AC_BUFFER_SET ( 0x67, 0x1e, 0x94c, 0x94c, 0x0 )
+[*12/05/2018 00:00:12.1499] FWLOG: [74777] UNKNOWN 22:55 ( 0x3a, 0x10, 0x0, 0x10, 0x0 )
+[*12/05/2018 00:00:12.3999] pid 3635's current affinity mask: f
+[*12/05/2018 00:00:12.3999] pid 3635's new affinity mask: e
+[*12/05/2018 00:00:14.3099] 
+[*12/05/2018 00:00:14.3099] Click sched monitor: schedulers = 3
+[*12/05/2018 00:00:15.0999] click-config/io-real.click:131: While configuring 'todev_wired0 :: ToDevice':
+[*12/05/2018 00:00:15.0999]   warning: device 'wired0' is down
+[*12/05/2018 00:00:15.1499] click-config/io-real.click:131: While configuring 'fromdev_wired0 :: FromDevice':
+[*12/05/2018 00:00:15.1499]   warning: device 'wired0' is down
+[*12/05/2018 00:00:15.9999] click-config/io-real.click:131: While initializing 'tohost_wired0 :: ToHost':
+[*12/05/2018 00:00:15.9999]   warning: device 'wired0' is down
+[*12/05/2018 00:00:16.4899] wmi_dbg_cfg_send: mod[0]00000000 dbgcfg40000000 cfgvalid[0] 00000000 cfgvalid[1] 00000000
+[*12/05/2018 00:00:16.4899] wmi_dbg_cfg_send: mod[0]00000000 dbgcfg40000000 cfgvalid[0] 00000000 cfgvalid[1] 00000000
+[*12/05/2018 00:00:18.1699] chatter: tohost_srcr6 :: ToHost: device 'srcr6' went down
+[*12/05/2018 00:00:18.1999] chatter: tohost_srcr6 :: ToHost: device 'srcr6' came up
+[*12/05/2018 00:00:18.1999] ip6_port srcr6, ip6local fe8[12/05/2018 00:00:19.5799] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+0::aab4:56ff:fef3:6e90, ip6 ::, plen 0, gw6 ::, gw6_mac 00:00:00:00:00:00, mtu 1500, vid 0, mode6 3(slaac)
+[*12/05/2018 00:00:19.7399] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:10:10 ]===
+[*12/05/2018 00:00:28.4499] Loading sha2...
+[*12/05/2018 00:00:28.4599] Dumpping sha1...
+[*12/05/2018 00:00:30.2099] Loading MIC cert and key
+[*12/05/2018 00:00:30.2099] Dumpping sha2...
+[*12/05/2018 00:00:31.9799] Loading MIC cert and key
+[*12/05/2018 00:00:32.8899] Generating key, this may take a while...
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:10:23 ]===
+[*12/05/2018 00:00:38.6299] Public key portion is:
+[*12/05/2018 00:00:38.6299] ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDbXc1fZ3Ey5Z7wbmgg0EY9s6uRDEIZpAbRhET/s1tf6v4owz6BjnfvNMy8MKNiMnYhQwgvrqJTQQdJ9tFjt5904KKzckYUQMsU4f4taqYi75sFc/yQ4mtglIaBF9cCnDSqgiVcTxTBWjIFkNAoom9r5dslwEI3iURlVpaFV9ZBhOefzECIqMYr4z3QfaiMJUu7E5PZlvUl4+JxffF1AXgt5W5H3PBxws55vCrChLYkpapD1zsJsy83vb+JudfJlX29ZRthYnsJZgh7mERjMAyAPQAYLue/yC36soVLrlyms/rNV8cQDtMqGaJKAmbueYJCfFADx0fNBzHPsbAwHp8h root@mA8B456F36E90
+[*12/05/2018 00:00:38.6299] Fingerprint: md5 e9:9c:44:37:d3:46:ab:22:e7:d6:ad:30:cd:a0:71:40
+[*12/05/2018 00:00:43.8599] starting tam services using ACT2...
+[*12/05/2018 00:00:43.8899] pid 5345's current affinity mask: f
+[*12/05/2018 00:00:43.8899] pid 5345's new affinity mask: e
+[*12/05/2018 00:00:43.8999] setting interrupt 200 affinity to 1
+[*12/05/2018 00:00:43.9199] setting interrupt 201 affinity to 1
+[*12/05/2018 00:00:44.9999] Password for 'Cisco' changed
+[*12/05/2018 00:00:45.4299] gzip -dc /etc/wcp.usermodule.template.gz | sed  -e 's/__TX_POWER_2G_FILE__/\/radio_fw\/CO2.csv/g' -e 's/__TX_POWER_5G_FILE__/\/radio_fw\/CO5.csv/g' -e 's/__EVM_POWER_2G_FILE__/\/radio_fw\/EVM_2.csv/g' -e 's/__EVM_POWER_5G_FILE__/\/radio_fw\/EVM_5.csv/g' -e 's/__DOMAIN_2G__/1/g' -e 's/__DOMAIN_5G__/12/g' -e 's/__PWR_TABLE_49G__/0/g' -e 's/__PRODUCT_ID__/AIR-AP1815M-E-K9/g' -e 's/__AP_TYPE__/73/g' -e 's/__WIRELESS_MAC__/70:EA:1A:84:47:60/g' -e 's/__WIRED_MAC__/A8:B4:56:F3:6E:90/g' -e 's/__WIRED1_MAC__/A8:B4:56:F3:6E:90/g' | DMALLOC_OPTIONS=debug=0x400003,inter=1000,log=/tmp/wcp.dmalloc.log,limit=40000000 wcpd &
+[*12/05/2018 00:00:47.7099] CRIT-MeshControl: 
+[*12/05/2018 00:00:47.7099] Mesh Control: skipped adding wired1 backhaul
+[*12/05/2018 00:00:47.7199] DOT11_DRV[1]: Init Radio1
+[*12/05/2018 00:00:47.7499] DOT11_DRV[1]: Stop Radio1
+[*12/05/2018 00:00:47.7599] DOT11_DRV[1]: set_channel Channel set to 36
+[*12/05/2018 00:00:47.7799] DOT11_DRV[0]: Init Radio0
+[*12/05/2018 00:00:47.8099] DOT11_DRV[0]: Stop Radio0
+[*12/05/2018 00:00:47.8199] DOT11_DRV[0]: set_channel Channel set to 6
+[*12/05/2018 00:00:48.4999] DOT11_CFG[0] Radio Mode is changed from Local to Local
+[*12/05/2018 00:00:48.4999] DOT11_CFG[1] Radio Mode is changed from Local to Local
+[*12/05/2018 00:00:48.5299] DOT11_DRV[0]: set_channel Channel set to 1
+[*12/05/2018 00:00:48.5299] DOT11_DRV[0]: Channel set to 1, width 20
+[*12/05/2018 00:00:48.5399] DOT11_DRV[0]: Channel set to 1, width 20
+[*12/05/2018 00:00:48.5499] DOT11_DRV[1]: set_channel Channel set to 36
+[*12/05/2018 00:00:48.5599] DOT11_DRV[1]: Channel set to 36, width 20
+[*12/05/2018 00:00:48.5599] DOT11_DRV[1]: Channel set to 36, width 20
+[*12/05/2018 00:00:52.5799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:10:42 ]===
+[*12/05/2018 00:00:57.5799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:10:47 ]===
+[*12/05/2018 00:01:02.5799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:10:52 ]===
+[*12/05/2018 00:01:07.5799] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:10:57 ]===
+[*12/05/2018 00:01:12.5899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:02 ]===
+[*12/05/2018 00:01:17.5899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:07 ]===
+[*12/05/2018 00:01:22.5899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:12 ]===
+[*12/05/2018 00:01:27.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:17 ]===
+[*12/05/2018 00:01:32.5999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:22 ]===
+[*12/05/2018 00:01:37.5999] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:01:38.5999] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:01:40.6299] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:01:43.7399] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:01:43.8199] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:01:44.7499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:34 ]===
+[*12/05/2018 00:01:49.7499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:39 ]===
+[*12/05/2018 00:01:54.7499] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:44 ]===
+[*12/05/2018 00:01:59.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:49 ]===
+[*12/05/2018 00:02:04.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:54 ]===
+[*12/05/2018 00:02:09.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:11:59 ]===
+[*12/05/2018 00:02:14.7599] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:04 ]===
+[*12/05/2018 00:02:19.7699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:09 ]===
+[*12/05/2018 00:02:24.7699] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:14 ]===
+[*12/05/2018 00:02:29.7799] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:02:30.7799] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:02:32.7999] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:02:35.8199] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:02:35.8999] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:02:36.9199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:26 ]===
+[*12/05/2018 00:02:41.9199] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:31 ]===
+[*12/05/2018 00:02:46.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:36 ]===
+[*12/05/2018 00:02:51.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:41 ]===
+[*12/05/2018 00:02:56.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:46 ]===
+[*12/05/2018 00:03:01.9299] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:51 ]===
+[*12/05/2018 00:03:06.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:12:56 ]===
+[*12/05/2018 00:03:11.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:01 ]===
+[*12/05/2018 00:03:16.9399] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:06 ]===
+[*12/05/2018 00:03:21.9499] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:03:22.9499] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:03:24.9699] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:03:27.8999] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:03:27.9799] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:03:29.0899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:19 ]===
+[*12/05/2018 00:03:34.0899] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:24 ]===
+[*12/05/2018 00:03:39.0999] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:29 ]===
+[*12/05/2018 00:03:44.0999] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:03:49.1099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:39 ]===
+[*12/05/2018 00:03:54.1099] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:03:59.1099] Waiting for uplink IPv4 configuration
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-16 16:13:49 ]===
+[*12/05/2018 00:04:04.1099] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:04:09.1199] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:04:14.1199] Waiting for uplink IPv4 configuration
+[*12/05/2018 00:04:15.1199] Resetting wired0 and restart DHCP client
+[*12/05/2018 00:04:17.1499] IPv6: ADDRCONF(NETDEV_UP): wired0: link is not ready
+[12/05/2018 00:04:19.9799] ess_edma c080000.edma: wired0: GMAC Link is up with phy_speed=1000
+[*12/05/2018 00:04:20.0699] IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
+[*12/05/2018 00:04:21.2599] Waiting for uplink IPv4 configuration
 
