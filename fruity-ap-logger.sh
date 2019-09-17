@@ -10,5 +10,7 @@ if [ $isScreenRunning -eq 1 ]
 then
 	echo "Screen running.. ignoring"
 else
-	screen -c $BASEDIR/screen.conf -dmSL 'AP' /dev/ttyUSB0
+	echo "starting screen"
+	/usr/bin/screen -c screen.conf -dmSL 'AP' /dev/ttyUSB0
+	echo "screen started"
 fi

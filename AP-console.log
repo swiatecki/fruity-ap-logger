@@ -47552,3 +47552,37 @@ IPv6: ADDRCONF(NETDEV_CHANGE): wired0: link becomes ready
 ===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:09:35 ]===
 [*12/05/2018 17:55:30.2499] Waiting for uplink IPv4 configuration
 ===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:09:36 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:08 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:33 ]===
+
+IOS Bootloader - Starting system.
+flash is writable
+Antigua Board
+40MB format
+Tide XL MB - 40MB of flash
+Xmodem fil===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:33 ]===
+e system is available.
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:34 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:43 ]===
+flashfs[0]: 240 files, 8 directories
+flashfs[0]: 0 orphaned files, 0 orphaned directories
+flashfs[0]: Total bytes: 41158656
+flashfs[0]: Bytes used: 19098624
+flashfs[0]: Bytes available: 22060032
+flashfs[0]: flashfs fsck took 10 seconds.
+Base Ethernet MAC address: 64:f6:9d:57:d4:68
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:44 ]===
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:49 ]===
+Ethernet speed is 1000 Mb - FULL Duplex
+Loading "flash:/ap3g2-rcvk9w8-mx/ap3g2-rcvk9w8-mx"...#########################
+
+File "flash:/ap===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:49 ]===
+3g2-rcvk9w8-mx/ap3g2-rcvk9w8-mx" uncompressed and installed, entry point: 0x2003000
+executing...
+
+Secondary Bootloader - Starting system.
+Antigua Board Pre-Pilot
+40MB format
+Tide XL MB - 40MB of flash
+Xmodem file system is available.
+===[ Fruity-AP-logger@ ttyUSB0: 2019-09-17 10:51:50 ]===

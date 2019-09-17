@@ -1,6 +1,6 @@
 sudo apt-get update
 sudo apt-get install screen -y
-sudo apt-get install smokeping sendmail
+sudo apt-get install smokeping sendmail -y
 
 # Setup Smokeping
 sudo cp smokepingConfigs/General /etc/smokeping/config.d/
