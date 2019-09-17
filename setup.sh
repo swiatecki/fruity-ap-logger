@@ -10,7 +10,7 @@ sudo cp smokepingConfigs/Targets /etc/smokeping/config.d/
 #sudo cp fruity-ap-logger-startup.sh /etc/init.d/
 #sudo chmod +x /etc/init.d/fruity-ap-logger-startup.sh
 #sudo update-rc.d fruity-ap-logger-startup.sh defaults
-
+echo "Bum bum"
 echo "Updating rc.local - hang tight"
 
 # Update rc.local
