@@ -1,0 +1,19 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = WLC ping test
+remark = This pings WLC
+
++ WLC
+menu = WLCs
+title = WLCs
+
+++ WLC01
+menu = WLC01
+host = 8.8.8.8
+
+++ GW
+menu = GW
+host = 10.10.0.31

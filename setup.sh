@@ -2,6 +2,10 @@ sudo apt-get update
 sudo apt-get install screen -y
 sudo apt-get install smokeping sendmail
 
+# Setup Smokeping
+sudo cp smokepingConfigs/General /etc/smokeping/config.d/
+sudo cp smokepingConfigs/Database /etc/smokeping/config.d/
+sudo cp smokepingConfigs/Targets /etc/smokeping/config.d/
 
 sudo cp fruity-ap-logger-startup.sh /etc/init.d/
 sudo chmod +x /etc/init.d/fruity-ap-logger-startup.sh
