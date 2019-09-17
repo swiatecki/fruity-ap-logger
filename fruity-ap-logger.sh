@@ -2,7 +2,7 @@
 
 # By Nicholas Swiatecki, <nswiatec@cisco.com>
 
-BASEDIR="/home/pi/Fruity-AP-logger"
+BASEDIR="/home/pi/fruity-AP-logger"
 
 isScreenRunning=$( screen -list | grep -i AP | wc -l)
 
