@@ -14,6 +14,6 @@ echo "Bum bum"
 echo "Updating rc.local - hang tight"
 
 # Update rc.local
-sudo sed -i -e '$i sudo /bin/bash /home/pi/fruity-AP-logger/fruity-ap-logger.sh' /etc/rc.local
+sudo sed -i -e '$i sudo /bin/bash /home/pi/fruity-ap-logger/fruity-ap-logger.sh' /etc/rc.local
 
 echo "Now reboot please.."
